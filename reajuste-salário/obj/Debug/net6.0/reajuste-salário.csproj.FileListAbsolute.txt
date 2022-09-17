@@ -1,0 +1,15 @@
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\bin\Debug\net6.0\reajuste-salário.exe
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\bin\Debug\net6.0\reajuste-salário.deps.json
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\bin\Debug\net6.0\reajuste-salário.runtimeconfig.json
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\bin\Debug\net6.0\reajuste-salário.dll
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\bin\Debug\net6.0\reajuste-salário.pdb
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\reajuste-salário.csproj.AssemblyReference.cache
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\reajuste-salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\reajuste-salário.AssemblyInfoInputs.cache
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\reajuste-salário.AssemblyInfo.cs
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\reajuste-salário.csproj.CoreCompileInputs.cache
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\reajuste-salário.dll
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\refint\reajuste-salário.dll
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\reajuste-salário.pdb
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\reajuste-salário.genruntimeconfig.cache
+C:\Users\Uso Exclusivo\Desktop\exercicios C#\reajuste-salário\reajuste-salário\obj\Debug\net6.0\ref\reajuste-salário.dll
