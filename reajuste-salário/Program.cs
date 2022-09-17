@@ -30,7 +30,8 @@ namespace salario_reajuste
 
                 Console.WriteLine();
                 Console.WriteLine("Readjustment: ");
-                foreach (SalaryReadjusted salary in list) {
+                foreach (SalaryReadjusted salary in list) 
+                {
                     Console.WriteLine($"{salary.Name}: $ {salary.Readjustment().ToString("F2", CultureInfo.InvariantCulture)}");
                 }
             }
